@@ -1,0 +1,105 @@
+app.coffee
+framer/backups/backup-2017-08-01 12.34.48.coffee
+framer/backups/backup-2017-08-01 12.34.48.vekter
+framer/backups/backup-2017-08-01 12.37.48.coffee
+framer/backups/backup-2017-08-01 12.38.48.coffee
+framer/backups/backup-2017-08-01 12.39.48.coffee
+framer/backups/backup-2017-08-01 12.40.48.coffee
+framer/backups/backup-2017-08-01 12.41.48.coffee
+framer/backups/backup-2017-08-01 12.42.48.coffee
+framer/backups/backup-2017-08-01 12.43.48.coffee
+framer/backups/backup-2017-08-01 12.44.48.coffee
+framer/backups/backup-2017-08-01 12.45.48.coffee
+framer/backups/backup-2017-08-01 12.46.48.coffee
+framer/backups/backup-2017-08-01 12.47.48.coffee
+framer/backups/backup-2017-08-01 12.50.48.coffee
+framer/backups/backup-2017-08-01 12.51.48.coffee
+framer/backups/backup-2017-08-01 12.52.48.coffee
+framer/backups/backup-2017-08-01 12.54.48.coffee
+framer/backups/backup-2017-08-01 12.55.48.coffee
+framer/backups/backup-2017-08-01 13.53.48.coffee
+framer/backups/backup-2017-08-01 13.55.48.coffee
+framer/backups/backup-2017-08-01 13.57.48.coffee
+framer/backups/backup-2017-08-01 13.58.48.coffee
+framer/backups/backup-2017-08-01 13.59.48.coffee
+framer/backups/backup-2017-08-01 14.00.48.coffee
+framer/backups/backup-2017-08-01 14.01.48.coffee
+framer/backups/backup-2017-08-01 14.02.48.coffee
+framer/backups/backup-2017-08-01 14.09.30.coffee
+framer/backups/backup-2017-08-01 14.09.30.vekter
+framer/backups/backup-2017-08-01 14.09.47.coffee
+framer/backups/backup-2017-08-01 14.11.27.coffee
+framer/backups/backup-2017-08-01 14.11.27.vekter
+framer/backups/backup-2017-08-01 14.12.27.coffee
+framer/backups/backup-2017-08-01 14.13.27.coffee
+framer/backups/backup-2017-08-01 14.25.27.coffee
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.js.map.old
+framer/framer.js.old
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/style.css
+framer/version
+index.html
+Messenger-Components-Alex/.git/COMMIT_EDITMSG
+Messenger-Components-Alex/.git/config
+Messenger-Components-Alex/.git/description
+Messenger-Components-Alex/.git/FETCH_HEAD
+Messenger-Components-Alex/.git/HEAD
+Messenger-Components-Alex/.git/hooks/applypatch-msg.sample
+Messenger-Components-Alex/.git/hooks/commit-msg.sample
+Messenger-Components-Alex/.git/hooks/post-update.sample
+Messenger-Components-Alex/.git/hooks/pre-applypatch.sample
+Messenger-Components-Alex/.git/hooks/pre-commit.sample
+Messenger-Components-Alex/.git/hooks/pre-push.sample
+Messenger-Components-Alex/.git/hooks/pre-rebase.sample
+Messenger-Components-Alex/.git/hooks/pre-receive.sample
+Messenger-Components-Alex/.git/hooks/prepare-commit-msg.sample
+Messenger-Components-Alex/.git/hooks/update.sample
+Messenger-Components-Alex/.git/index
+Messenger-Components-Alex/.git/info/exclude
+Messenger-Components-Alex/.git/logs/HEAD
+Messenger-Components-Alex/.git/logs/refs/heads/master
+Messenger-Components-Alex/.git/logs/refs/remotes/origin/master
+Messenger-Components-Alex/.git/objects/8c/b4818f58a1980ed8befbea815d3cba9d9a3a07
+Messenger-Components-Alex/.git/objects/8e/0ed693988ae8732f840f5a1b6261bab3e6f03f
+Messenger-Components-Alex/.git/objects/d0/638e2a7880350b8b03bb8857dfcf0e9ec66cf1
+Messenger-Components-Alex/.git/objects/eb/a1110b5794582b53554bb1e4224b860d4e173f
+Messenger-Components-Alex/.git/refs/heads/master
+Messenger-Components-Alex/.git/refs/remotes/origin/master
+Messenger-Components-Alex/README.md
+modules/ios-kit-alert.coffee
+modules/ios-kit-banner.coffee
+modules/ios-kit-button.coffee
+modules/ios-kit-converter.coffee
+modules/ios-kit-field.coffee
+modules/ios-kit-keyboard.coffee
+modules/ios-kit-layout.coffee
+modules/ios-kit-library.coffee
+modules/ios-kit-nav-bar.coffee
+modules/ios-kit-sheet.coffee
+modules/ios-kit-status-bar.coffee
+modules/ios-kit-tab-bar.coffee
+modules/ios-kit-temp.coffee
+modules/ios-kit-text.coffee
+modules/ios-kit-utils.coffee
+modules/ios-kit-view.coffee
+modules/ios-kit.coffee
+modules/myModule.coffee
